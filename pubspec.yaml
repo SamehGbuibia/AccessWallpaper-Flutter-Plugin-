@@ -1,6 +1,6 @@
 name: access_wallpaper
 description: A Flutter plugin that provides a method to access the current system or lock screen wallpaper image as a Uint8List.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/SamehGbuibia/AccessWallpaper-Flutter-Plugin-
 
 environment:
