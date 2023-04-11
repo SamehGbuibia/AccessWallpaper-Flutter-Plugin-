@@ -46,4 +46,3 @@ accessWallpaper plugin is developed by Sameh Gbibia. You can contact me at gbuib
 ## License
 
 accessWallpaper plugin is released under the Apache License 2.0. See the LICENSE file for details.
-```
