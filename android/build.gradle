@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace  'sameh.gbibia.access_wallpaper'
     compileSdkVersion 31
 
     compileOptions {
